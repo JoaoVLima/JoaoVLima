@@ -11,5 +11,6 @@
 		<a href="https://www.twitch.tv/limacode" target="_blank"><img align="center" alt="Twitch" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/twitch-tile.svg"/></a>
 		<a href="https://www.youtube.com/channel/UC-X2JGoH2c8T-87RnC5t5UA" target="_blank"><img align="center" alt="Youtube" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/youtube-tile.svg"/></a>
 		<a href="https://twitter.com/code_lima" target="_blank"><img align="center" alt="Twitter" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/twitter-tile.svg"/></a>
+		<a href="mailto:celu.joaolima@gmail.com" target="_blank"><img align="center" alt="Twitter" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/gmail-tile.svg"/></a>
 	</h3>
 </samp>
