@@ -1,5 +1,5 @@
 <h1 align="center">
-	<samp>Hello World!</samp><img src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/Hi.gif" height="30px" width="30px"> <img src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/Earth.gif" width="30px">
+	<samp>Hello World!</samp><img src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/Hi.gif" height="30px" width="30px"> <img src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/Earth.gif" height="30px" width="30px">
 </h1>
 <samp>
 	<h3 align="center">
