@@ -3,7 +3,7 @@
 </h1>
 <samp>
 	<h3 align="center">
-		I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://lima.dev">João Lima</a></b>.
+		I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://limadeveloper.com">João Lima</a></b>.
 		<br>
 		I'm a Computer Science Student from Brazil.
 		<br>
