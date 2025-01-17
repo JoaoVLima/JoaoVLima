@@ -5,7 +5,7 @@
 	<h3 align="center">
 		I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="http://limadeveloper.com">João Lima</a></b>.
 		<br>
-		I'm a Computer Science Student from Brazil.
+		I'm a Software Engineer based in Brazil.
 		<br>
 		<a href="https://www.linkedin.com/in/limadeveloper/" target="_blank" rel="noopener noreferrer"><img align="center" alt="LinkedIn" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/linkedin-tile.svg"/></a>
 <!-- 		<a href="https://www.twitch.tv/limacode" target="_blank" rel="noopener noreferrer"><img align="center" alt="Twitch" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/twitch-tile.svg"/></a> -->
