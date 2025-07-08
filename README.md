@@ -15,8 +15,8 @@
 	</h3>
 </samp>
 
-[Python Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=python&sort=)
+[Python Projects](https://github.com/JoaoVLima?tab=repositories&q=python&type=&language=&sort=)
 
-[Typescript Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=typescript&sort=)
+[Java Projects](https://github.com/JoaoVLima?tab=repositories&q=java&type=&language=&sort=)
 
-[Java Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=java&sort=)
+[Typescript Projects](https://github.com/JoaoVLima?tab=repositories&q=typescript&type=&language=&sort=)
