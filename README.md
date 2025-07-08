@@ -14,3 +14,9 @@
 		<a href="mailto:joao@lima.dev" target="_blank" rel="noopener noreferrer"><img align="center" alt="Gmail" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/gmail-tile.svg"/></a>
 	</h3>
 </samp>
+
+[Python Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=python&sort=)
+
+[Typescript Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=typescript&sort=)
+
+[Java Projects](https://github.com/JoaoVLima?tab=repositories&q=&type=&language=java&sort=)
