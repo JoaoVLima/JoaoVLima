@@ -15,8 +15,24 @@
 	</h3>
 </samp>
 
-[Python Projects](https://github.com/JoaoVLima?tab=repositories&q=python&type=&language=&sort=)
+<h2> </h2>
 
-[Java Projects](https://github.com/JoaoVLima?tab=repositories&q=java&type=&language=&sort=)
+<samp>
+	<h3 align="center">
+		<a href="https://github.com/JoaoVLima?tab=repositories&q=python&type=&language=&sort=" target="_blank" rel="noopener noreferrer">
+			<img align="center" alt="Python" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/python.svg"/>
+			<span>Python Projects</span>
+		</a>
+		|
+		<a href="https://github.com/JoaoVLima?tab=repositories&q=java&type=&language=&sort=" target="_blank" rel="noopener noreferrer">
+			<img align="center" alt="Java" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/java.svg"/>
+			<span>Java Projects</span>
+		</a>
+		|
+		<a href="https://github.com/JoaoVLima?tab=repositories&q=typescript&type=&language=&sort=" target="_blank" rel="noopener noreferrer">
+			<img align="center" alt="Typescript" width="30px" src="https://github.com/JoaoVLima/JoaoVLima/blob/master/assets/typescript.svg"/>
+			<span>Typescript Projects</span>
+		</a>
+	</h3>
+</samp>
 
-[Typescript Projects](https://github.com/JoaoVLima?tab=repositories&q=typescript&type=&language=&sort=)
